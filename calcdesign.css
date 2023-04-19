@@ -6,14 +6,13 @@ src: url(./TickingTimebombBB.ttf)
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: digit, sans-serif;
 }
 h1 {
 text-align: center;
 }
 body {
    background-color: bisque;
-   font-family: digit;
 }
 .calccon {
     width: 100%;
