@@ -1,12 +1,12 @@
 @font-face {
 font-family: 'digit';
-src: url(./TickingTimebombBB.ttf)format(truetype);
+src: url(./TickingTimebombBB.ttf) format(truetype);
 }
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'digit', sans-serif;
+    font-family: 'digit';
 }
 h1 {
 text-align: center;
