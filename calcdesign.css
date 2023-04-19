@@ -28,7 +28,7 @@ p {
     right: 10px;
 }
 .calculator {
-    font-family: digit
+    font-family: digit;
     width: 350px;
     height: 600px;
     background-color: darkgray;
