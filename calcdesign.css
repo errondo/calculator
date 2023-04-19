@@ -9,6 +9,7 @@ src: url(./TickingTimebombBB.ttf) format(truetype);
     font-family: 'digit';
 }
 h1 {
+margin-top: 25px;
 text-align: center;
 }
 body {
