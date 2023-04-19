@@ -1,3 +1,7 @@
+@font-face {
+font-family: digit;
+src: url(./TickingTimebombBB.ttf)
+}
 * {
     margin: 0;
     padding: 0;
@@ -22,6 +26,7 @@ p {
     right: 10px;
 }
 .calculator {
+    font-family: digit
     width: 350px;
     height: 600px;
     background-color: darkgray;
